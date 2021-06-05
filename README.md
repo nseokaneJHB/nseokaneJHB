@@ -7,7 +7,7 @@
   - Angular 11
   - React JS
   - Docker
-  - Github CI
+  - Github Actions (CI/CD)
   - Netlify
   - Heroku
   - AWS S3 Buckets
