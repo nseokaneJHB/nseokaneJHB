@@ -2,7 +2,7 @@
 
 - 👋 &nbsp;Hi, I’m Nolan Seokane.
 - 👀 &nbsp;I’m interested in Anything that has to do with Technology and Skateboarding.
-- 🌱 &nbsp;Technologies I am currently working with:
+- 🌱 &nbsp;Technologies I am currently working on:
   - Python (Django & Django Rest Framework
   - Angular 11
   - React JS
