@@ -17,3 +17,7 @@
   - Email: nolanseokane@gmail.com 
   - Phone: 084 539 4450 
   - Instagram: @nolan__kgotso
+ - Web portfolio http://nolan-profile.herokuapp.com/
+ - Fun projects I've developed:
+   - Recipe Search App (API) http://nolan-recipe-pwa.netlify.app/
+   - Mini E-Commerce Store (API) https://nolan-mini-store.netlify.app/
